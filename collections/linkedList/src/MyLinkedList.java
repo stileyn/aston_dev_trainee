@@ -19,6 +19,7 @@ class Node<T> {
  * @param <T> type of data stored in the list
  */
 
+
 public class MyLinkedList<T extends Comparable<T>> {
     private Node<T> head;
     private int size;

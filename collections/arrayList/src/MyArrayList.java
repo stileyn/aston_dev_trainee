@@ -5,6 +5,7 @@ import java.util.Arrays;
  *
  * @param <T> the type of elements stored in the list
  */
+
 public class MyArrayList<T> {
     private  static int DEFAULT_CAPACITY = 10;
     private T[] list;

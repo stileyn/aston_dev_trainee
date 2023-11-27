@@ -39,5 +39,6 @@ public class Main {
         assert linkedList.isEmpty();
 
         System.out.println("Testing completed successfully.");
+
     }
 }
