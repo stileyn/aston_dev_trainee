@@ -7,7 +7,8 @@ public class Main {
         //myArrayList.add(3);
         //myArrayList.remove((Integer) 2);
         //myArrayList.sort();
-        //myArrayList.printList();
+        myArrayList.printList();
         System.out.println(myArrayList);
+        myArrayList.add(4);
     }
 }
