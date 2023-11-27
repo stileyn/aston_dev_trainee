@@ -9,5 +9,6 @@ public class Main {
         //myArrayList.sort();
         //myArrayList.printList();
         System.out.println(myArrayList);
+        myArrayList.add(4);
     }
 }

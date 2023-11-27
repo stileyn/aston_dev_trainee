@@ -173,6 +173,7 @@ public class MyArrayList<T> {
 
     /**
      * Displays the contents of the list.
+     *
      */
 
     public void printList() {
