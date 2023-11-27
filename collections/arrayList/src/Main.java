@@ -4,7 +4,7 @@ public class Main {
 
         myArrayList.add(1);
         myArrayList.add(2);
-        myArrayList.add(3);
+        //myArrayList.add(3);
         //myArrayList.remove((Integer) 2);
         //myArrayList.sort();
         //myArrayList.printList();
